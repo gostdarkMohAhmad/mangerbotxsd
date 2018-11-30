@@ -4,7 +4,7 @@ const prefix = '#o'
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`MYTHS bot`,"http://twitch.tv/S-F")
+client.user.setGame(`MYTHS Server`,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
@@ -93,7 +93,7 @@ client.on('message', msg => {
 //الترحيب
 
 client.on('guildMemberAdd', member => {
-    let channel = member.guild.channels.find('name', '♛『five』♛');
+    let channel = member.guild.channels.find('name', 'myths');
     let memberavatar = member.user.avatarURL
       if (!channel) return;
     let embed = new Discord.RichEmbed()
