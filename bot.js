@@ -152,7 +152,7 @@ client.on("guildMemberAdd", member => {
      let embed = new Discord.RichEmbed()
 .setThumbnail(message.author.avatarURL)
 .addField(' البنق🚀 ',`[${Date.now() - message.createdTimestamp}]`) 
-.addField('مصمم  + صاحب البوت ',`★мohme𝕯★| ProG🌹#4476 و W͈̪̣AR NI̴̧͝GH̴̵T͇ | RG🌹#4506`)
+.addField('مصمم  + صاحب البوت ',`! gostdark...,#7771`)
 .setColor('#027aff')
   message.channel.sendEmbed(embed);
     }
@@ -382,7 +382,7 @@ client.on('message', message => {
         color: 0x06DF00,
         description: "مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ ",
         footer: {
-          text: "🌟Five Stars🌟    [ !^мohαmε𝕯^!#4476      -     W͈̪̣AR NI̴̧͝GH̴̵T͇#4506 ]"
+          text: "! gostdark..,#7771 ]"
         }
       }}).then(msg => {msg.delete(10000)});
                           }
@@ -398,7 +398,7 @@ client.on('message', message => {
         color: 0x06DF00,
         description: "مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ ",
         footer: {
-          text: "🌟Five Stars🌟    [ !^мohαmε𝕯^!#4476      -     W͈̪̣AR NI̴̧͝GH̴̵T͇#4506 ]"
+          text: "! gostdark..,#7771 ]"
         }
       }}).then(msg => {msg.delete(10000)});
                           }
@@ -414,7 +414,7 @@ client.on('message', message => {
         color: 0x06DF00,
         description: "مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ ",
         footer: {
-          text: "🌟Five Stars🌟    [ !^мohαmε𝕯^!#4476      -     W͈̪̣AR NI̴̧͝GH̴̵T͇#4506 ]"
+          text: "! gostdark..,#7771 ]"
         }
       }}).then(msg => {msg.delete(10000)});
                           }
@@ -430,7 +430,7 @@ client.on('message', message => {
         color: 0x06DF00,
         description: "مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ ",
         footer: {
-          text: "🌟Five Stars🌟    [ !^мohαmε𝕯^!#4476      -     W͈̪̣AR NI̴̧͝GH̴̵T͇#4506 ]"
+          text: "! gostdark..,#7771 ]"
         }
       }}).then(msg => {msg.delete(10000)});
                           }
@@ -446,7 +446,7 @@ client.on('message', message => {
         color: 0x06DF00,
         description: "مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ ",
         footer: {
-          text: "🌟Five Stars🌟    [ !^мohαmε𝕯^!#4476      -     W͈̪̣AR NI̴̧͝GH̴̵T͇#4506 ]"
+          text: "! gostdark..,#7771 ]"
         }
       }}).then(msg => {msg.delete(10000)});
                           }
@@ -462,7 +462,7 @@ client.on('message', message => {
         color: 0x06DF00,
         description: "مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ ",
         footer: {
-          text: "🌟Five Stars🌟    [ !^мohαmε𝕯^!#4476      -     W͈̪̣AR NI̴̧͝GH̴̵T͇#4506 ]"
+          text: "! gostdark..,#7771 ]"
         }
       }}).then(msg => {msg.delete(10000)});
                           }
@@ -478,7 +478,7 @@ client.on('message', message => {
         color: 0x06DF00,
         description: "مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ ",
         footer: {
-          text: "🌟Five Stars🌟    [ !^мohαmε𝕯^!#4476      -     W͈̪̣AR NI̴̧͝GH̴̵T͇#4506 ]"
+          text: "🌟! gostdark..,#7771 ]"
         }
       }}).then(msg => {msg.delete(10000)});
                           }
@@ -555,7 +555,7 @@ client.on('message', async message =>{
 
 client.on ("guildMemberAdd", member => {
   
-   var role = member.guild.roles.find ("name", "New members");
+   var role = member.guild.roles.find ("name", "MYTHś  Community");
    member.addRole (role);
   
 })
@@ -768,13 +768,13 @@ Support server : https://discord.gg/Fq233KJ - https://discord.gg/KPpVGvv
       .setDescription(`
              
 ==================== اوامر ادارية ===================== 
-#omute ➾ اعطاء ميوت لشخص
-#ounmute ➾ الغاء الميوت من شخص
-#oclear ➾ حذف الرسائل
-#oban ➾ اعطاء باند
-#okick ➾ الطرد من السيرفر
-#omutechannel ➾ قفل الشات
-#ounmutechannel ➾ فتح الشات
+*mute ➾ اعطاء ميوت لشخص
+*unmute ➾ الغاء الميوت من شخص
+*clear ➾ حذف الرسائل
+*ban ➾ اعطاء باند
+kick ➾ الطرد من السيرفر
+*mutechannel ➾ قفل الشات
+*unmutechannel ➾ فتح الشات
 =========================================================
 وقريباً المزيد من الاكواد
 =========================================================
