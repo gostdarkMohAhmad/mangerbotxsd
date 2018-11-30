@@ -1,0 +1,2 @@
+# mangerbotxsd
+بوت كبير
